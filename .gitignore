@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+
+# ML outputs
+*.h5
+*.keras
+checkpoints/
+logs/
+runs/

@@ -1,0 +1,6 @@
+method,test_accuracy,note
+L1 Regularization,0.9789,L1 penalty encourages sparse weights and implicit feature selection.
+L2 Regularization,0.979,L2 penalty discourages large weights and stabilizes optimization.
+Dropout,0.9817,Randomly deactivates neurons during training to reduce co-adaptation.
+Batch Normalization,0.9827,Normalizes activations and produced the highest observed test accuracy.
+Elastic Net (L1 + L2),0.9822,Combines sparsity and weight decay penalties.
