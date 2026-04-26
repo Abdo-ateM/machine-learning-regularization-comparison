@@ -119,9 +119,8 @@ elastic_net
 
 ## Authors
 
-- Abdelrahman Hatem — 202201503
-- Mohamed Dawood — 202201425
-- Mohamed Abdelwahab — 202202260
+- Abdelrahman Hatem
+  AI student
 
 ## Project Type
 
