@@ -120,7 +120,6 @@ elastic_net
 ## Authors
 
 - Abdelrahman Hatem
-  AI student
 
 ## Project Type
 
